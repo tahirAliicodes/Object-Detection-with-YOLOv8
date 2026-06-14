@@ -10,7 +10,7 @@
 |---|---|
 | **University** | Shah Abdul Latif University, Khairpur Mirs |
 | **Supervisor** | Dr. Prof. Javed Ahmed Mahar |
-| **Developers** | Nadir Ali, Tahir Hussain Shar, Zohaib Solangi |
+| **Developers** |  Tahir Hussain Shar,Nadir Ali, Zohaib Solangi |
 
 ---
 
